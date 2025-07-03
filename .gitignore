@@ -17,8 +17,7 @@
 .env.development.local
 .env.test.local
 .env.production.local
-.env
-.env.*
+
 # აქ ჩავსვნი env და მემგონი სწორი ადგილია აქ :დდდდ ვგუგლე და ყვეალფერი ამრა მაინც ვერ გავიგე კარგად :დდდ ეს ფიფქი ჩატმა დამამატებინა
 
 npm-debug.log*
